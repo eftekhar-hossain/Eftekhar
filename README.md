@@ -36,7 +36,7 @@ This page contains some of my machine learning projects in NLP application.
 - Analysed the performance of different machine learning algorithms for n-gram feature by using various evaluation metrics such as **accuracy, precision, recall and f1-score**.
 
 
-## [Project 5: Bengali Document Categorization Using ConV-LSTM Net: Project Overview](https://github.com/eftekhar13/Bengali-Document-Categorization)
+## [Project 5: Bengali Document Categorization Using ConV-LSTM Net](https://github.com/eftekhar13/Bengali-Document-Categorization)
 
 - Created a tool that can categorizes the Bengali news articles into 12 diffferent categories (**Art, Politics, International, Sports, Science, Economics, Crime, Accident, Education, Entertainment, Environment, Opinion**) using **Deep Learning**.
 - A publicly available [dataset](https://data.mendeley.com/datasets/xp92jxr8wn/2) of **0.1 Million** news articles is used to develop the system. The dataset consist 12 different categories news articles.      
