@@ -60,7 +60,7 @@
 - Used a publicly availabe [dataset](https://data.mendeley.com/datasets/xp92jxr8wn/2) of **0.1 Milion** Bangla news articles.
 - Visualized the word similarity using **t-sne** plot. 
 
-![wordvec](/images/word2vec.png)
+![word2vec](/images/wor2vec.png)
 
 
 
