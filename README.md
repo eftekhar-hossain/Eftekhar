@@ -30,7 +30,7 @@
 - Finally, created a client facing API using Flask and deployed into cloud using **Heroku**. [App Link](https://sa-restaurant-reviews.herokuapp.com/)
 - Publication: [Link](https://ieeexplore.ieee.org/abstract/document/8934655)
 
-![rest](/images/restaurant.png)
+![rest](/images/restaurant1.png)
 
 
 ## [Project 4: Sentiment Analysis of Bangla News Comments Using Machine Learning](https://github.com/eftekhar13/Bangla-News-Comments)
