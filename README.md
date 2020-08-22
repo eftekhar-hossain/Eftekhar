@@ -4,22 +4,22 @@ This page contains some of my machine learning projects in NLP application.
 ## [Project 1: Polarity Detection of Bengali Book Reviews Using Machine Learning](https://github.com/eftekhar13/Bengali-Book-Reviews)
 - Created a tool that can detect the sentiment polarity (either **positive or negative**) of Book reviews written in Bengali Text. 
 - Collected **1k** book reviews from different online book shops as well as social media groups. Among these reviews **528** reviews are labelled as positve and **472** reviews are labelled as negative sentiment.
-- Extract Unigram, Bigram and Trigram features from the cleaned Text and use the **TF-idf vectorizer** as a feature extraction technique.
+- Extract **Unigram, Bigram and Trigram** features from the cleaned Text and use the **TF-idf vectorizer** as a feature extraction technique.
 - Employed different machine learning classifiers for the classification purpose. The used classifiers are **Logistic Regression, Decision Tree, Multinomial Naive Bayes, Support Vector Machine** and so on.
-- Evaluate the performance of the classification for every gram feature. Accuracy, Precision, Recall, F1-score, ROC curve and Precision-Recall curve used as evaluation metrics.
-- Finally created a client facing API using Flask. [App link](https://sa-book-review.herokuapp.com/)
-- Publication: [Sentiment Polarity Detection on Bengali Book Reviews Using Multinomial Naïve Bayes.](https://www.researchgate.net/publication/342673109_Sentiment_Polarity_Detection_on_Bengali_Book_Reviews_Using_Multinomial_Naive_Bayes)
+- Evaluate the performance of the classification for every gram feature. **Accuracy, Precision, Recall, F1-score, ROC curve and Precision-Recall curve** used as evaluation metrics.
+- Finally, created a client facing API using Flask. [App link](https://sa-book-review.herokuapp.com/)
+- Publication: [Link](https://www.researchgate.net/publication/342673109_Sentiment_Polarity_Detection_on_Bengali_Book_Reviews_Using_Multinomial_Naive_Bayes)
 
 
 
 ## [Project 2: Sentiment Analysis of Bengali Restaurant Reviews Using Machine Learning](https://github.com/eftekhar13/Bengali-Restaurant-Reviews)
 - Created a tool that can identify the sentiment of a restaurant review written in Bengali Text. It classifies a review as **positive or negative** sentiment.   
 - Collected **1.4k** Bengali restaurant reviews from different social media groups of food or restaurant reviews. Among these reviews 630 reviews are labelled as positve and 790 reviews are labelled as negative sentiment.
-- Extract **Unigram, Bigram and Trigram** features from the cleaned Text and use the *TF-idf vectorizer* as a feature extraction technique.
-- Employed different machine learning classifiers for the classification purpose. The used classifiers are *Logistic Regression, Decision Tree, Multinomial Naive Bayes, Support Vector Machine, Stochastic Gradient Descent* and so on.
-- Evaluate the performance of the classification for every gram feature. Accuracy, Precision, Recall, F1-score, ROC curve and Precision-Recall curve used as evaluation metrics.
-- Finally created a client facing API using Flask and deployed into cloud using **Heroku**. Here is the [App](https://sa-restaurant-reviews.herokuapp.com/)
-- Publication: [Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naïve Bayes.](https://ieeexplore.ieee.org/abstract/document/8934655)
+- Extract **Unigram, Bigram and Trigram** features from the cleaned Text and use the **TF-idf vectorizer** as a feature extraction technique.
+- Employed different machine learning classifiers for the classification purpose. The used classifiers are **Logistic Regression, Decision Tree, Multinomial Naive Bayes, Support Vector Machine, Stochastic Gradient Descent** and so on.
+- Evaluate the performance of the classification for every gram feature. **Accuracy, Precision, Recall, F1-score, ROC curve and Precision-Recall curve** used as evaluation metrics.
+- Finally, created a client facing API using Flask and deployed into cloud using **Heroku**. [App Link](https://sa-restaurant-reviews.herokuapp.com/)
+- Publication: [Link](https://ieeexplore.ieee.org/abstract/document/8934655)
 
 
 
