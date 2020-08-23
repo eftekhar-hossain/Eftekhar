@@ -1,3 +1,4 @@
+# My NLP Projects:
 
 ## [Project 1: Polarity Detection of Bengali Book Reviews Using Machine Learning](https://github.com/eftekhar13/Bengali-Book-Reviews)
 - Created a tool that can detect the sentiment polarity (either **positive or negative**) of Book reviews written in Bengali Text. 
